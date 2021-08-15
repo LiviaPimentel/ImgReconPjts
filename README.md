@@ -1,2 +1,2 @@
 # ImgReconPjts
-Projects related to image recognition using YOLO and Haar Cascades. 
+Projects related to image recognition using Machine Learning and Computer Vision.
