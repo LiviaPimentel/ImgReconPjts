@@ -5,6 +5,8 @@ This project provides a Python script designed to generate synthetic data for im
 Example of a Blender scene setup for synthetic data generation, showing various objects (triangle, square, cross, and arrow) on a textured plane, with the camera and lighting setup visible.
 <img width="717" alt="image" src="https://github.com/user-attachments/assets/3500d3fa-f45e-4c81-a289-12cf4e24a5bd" />
 
+At the train_darknet_triangle.ipynb notebook we train a YOLO classifier, using datasets generated from Blender.
+
 ## Why Creating Synthetic Datasets Matter
 
 In the field of machine learning, particularly in computer vision, high-quality datasets are crucial for training accurate models. However, real-world datasets can be challenging to obtain due to privacy concerns, high costs, and limited variability. This is where synthetic datasets come in as a powerful alternative.
