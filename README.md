@@ -1,5 +1,5 @@
 # ImgReconPjts
-Projects related to image recognition using Machine Learning and Computer Vision.
+Projects on this folder are related to image recognition using Machine Learning and Computer Vision. They were developed in 2020 as part of the training for Mechatronics classes at [https://artsetmetiers.fr/fr/mecatronique](ENSAM)
 
 Folders:
 
