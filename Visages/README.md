@@ -51,6 +51,15 @@ The ability to quickly and accurately detect faces and other objects has signifi
    - **Use Case**: Detect driver drowsiness or distraction.
    - **Benefits**: Promotes road safety by providing alerts in real-time.
 
+## Limitations of Haar Cascades for Non-Face Objects
+
+While Haar Cascades are versatile, they do have some limitations:
+- **Feature Design Dependency**: Haar Cascades rely on manually crafted features, so they might struggle with objects that lack clear or uniform patterns (e.g., highly irregular shapes).
+- **High False Positives**: Detection may produce false positives if the training data is insufficient or poorly curated.
+- **Computational Efficiency**: Haar Cascades are fast, but newer techniques like deep learning (e.g., YOLO, SSD) often achieve higher accuracy and are better at detecting multiple objects in complex scenes.
+
+
+
 ---
 
 ## Project Goals
