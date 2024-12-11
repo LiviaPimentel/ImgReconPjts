@@ -5,7 +5,8 @@ This project provides a Python script designed to generate synthetic data for im
 Example of a Blender scene setup for synthetic data generation, showing various objects (triangle, square, cross, and arrow) on a textured plane, with the camera and lighting setup visible.
 <img width="717" alt="image" src="https://github.com/user-attachments/assets/3500d3fa-f45e-4c81-a289-12cf4e24a5bd" />
 
-At the train_darknet_triangle.ipynb notebook we train a YOLO classifier, using datasets generated from Blender.
+* At the train_darknet_triangle.ipynb notebook we train a YOLO classifier, using datasets generated from Blender.
+* You can find a result sample at the test_triangle.mp4 file on this folder.
 
 ## Why Creating Synthetic Datasets Matter
 
